@@ -1,0 +1,84 @@
+.logo{
+    margin-left: 120px;
+}
+.about h1{
+    font-size: 40px;
+}
+.our h2{
+font-size: 40px;
+}
+.price{
+    font-size: 40px;
+    color: blue;
+}
+.left-border{
+    height: 100px;
+}
+.testimonial{
+    font-size: 40px;
+    color: blueviolet;
+    justify-content: center;
+    text-align: center;
+}
+.swiper_swiperCarousel{
+    background-color: rgb(218, 237, 243);
+    justify-content: center;
+    text-align: center;
+}
+.our h2{
+    color: yellow;
+}
+.card img{
+    justify-content: center;
+    text-align: center;
+}
+.home{
+    color: white;
+}
+.popcorn{
+    font-size: 60px;
+    margin-left: -100px;
+}
+.Popcorn_Production{
+    font-size: 40px;
+    width: 600px;
+    margin-left: -100px;
+}
+.btn1{
+    margin-left: -108px; 
+}
+.history{
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+}
+.about{
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+}
+/*  */
+@media (max-width: 350px) {
+    .popcorn{
+        font-size: 34px;
+        width: 300px;
+        margin-left: 16px;
+
+    }
+    .Popcorn_Production{
+        font-size: 30px;
+        width: 360px;
+        margin-left: -16px;
+    }
+    .btn1{
+        margin-left: -21px;  
+    }
+  
+}
+/*  */
+@media only screen and (min-width: 700px) and (max-width: 972px)  {
+
+.navbar{
+    margin-left: -260px;
+}
+}

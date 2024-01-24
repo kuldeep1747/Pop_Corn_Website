@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../../Users/Nimisha Jagtap/Desktop/task"
+		},
+		{
+			"path": "../../../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "task",
+		"liveServer.settings.port": 5501
+	}
+}
